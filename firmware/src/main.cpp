@@ -66,8 +66,6 @@ const uint16_t debounce_delay = 500;
 volatile unsigned long last_button_time = 0;
 volatile bool button_pressed = false;
 
-const String receive_command = "Volume";
-const String answer_command = "VolumeKnob";
 bool connected = false;
 
 float targetAngle = MAX_ANGLE;
