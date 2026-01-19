@@ -1,5 +1,5 @@
 /*
-Author: nikzin
+Author: Nikolas Zingraf
 
 Description: Firmware for the motorized volume knob with haptic feedback and BLE communication.
 */

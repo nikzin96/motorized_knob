@@ -1,4 +1,4 @@
-# Author: nikzin
+# Author: Nikolas Zingraf
 # Description: Python script to interface with the motorized volume knob to control windows volume over BLE.
 #              You can use nuitka or similar to create an exectuable and add it to your task scheduler to always run in the background.
 
