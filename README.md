@@ -1,4 +1,6 @@
-# Motorized Knob Project
+# Motorized (Volume) Knob
+<img src="media/Cover.jpg" alt="drawing" width="300"/>
+
 ## Instructions
 Instructions to build the project including the mechanical assembly can be found on instructables:
 
